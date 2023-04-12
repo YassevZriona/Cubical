@@ -1,0 +1,23 @@
+item.walkie_talkie.name=Walkie Talkie
+item.lens.name=Optic Lens
+
+item.kevlar1_helmet.name=Kevlar Helmet (Basic)
+item.kevlar1_chestplate.name=Kevlar Chestplate (Basic)
+item.kevlar1_leggings.name=Kevlar Leggings (Basic)
+item.kevlar1_boots.name=Kevlar Boots (Basic)
+
+item.kevlar2_helmet.name=Kevlar Helmet (Desert)
+item.kevlar2_chestplate.name=Kevlar Chestplate (Desert)
+item.kevlar2_leggings.name=Kevlar Leggings (Desert)
+item.kevlar2_boots.name=Kevlar Boots (Desert)
+
+item.kevlar3_helmet.name=Kevlar Helmet (Winter)
+item.kevlar3_helmet_chestplate.name=Kevlar Chestplate (Winter)
+item.kevlar3_leggings.name=Kevlar Leggings (Winter)
+item.kevlar3_boots.name=Kevlar Boots (Winter)
+
+item.kevlar4_helmet.name=Kevlar Helmet (Riot)
+item.kevlar4_chestplate.name=Kevlar Chestplate (Riot)
+item.kevlar4_leggings.name=Kevlar Leggings (Riot)
+item.kevlar4_boots.name=Kevlar Boots (Riot)
+

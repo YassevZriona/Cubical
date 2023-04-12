@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Cubical
+Implementation-Version: 1.2
+Specification-Vendor: yassev
+Specification-Title: cubical
+Implementation-Timestamp: 2023-04-12T19:29:53+0530
+Specification-Version: 1
+Implementation-Vendor: yassev
+

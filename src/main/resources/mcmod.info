@@ -1,0 +1,12 @@
+[
+{
+  "modid": "cubical",
+  "name": "\u00A7fCubical",
+  "description": "\u00A73It adds some miscellaneous features to the modpack/server 'The Cube Experiment'",
+  "version": "1.1",
+  "mcversion": "1.12.2",
+  "authorList": ["YassevZriona"],
+  "credits": "\u00A76To Jacob#4873 for the idea of an item which allows global chat, rest of the credit to Forge for making the modding software and lastly- to myself for coding the mod.",
+  "logoFile": "cubical:logo"
+}
+]
